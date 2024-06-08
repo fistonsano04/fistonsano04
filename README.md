@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=fistonsano04&label=Profile%20views&color=blue&style=flat" alt="Sano-Fiston" /> 
 </p>
  - 📧 Reach me via email: sanofiston04@gmail.com <br>
- - 🔭 I’m currently working on Extensive e-commerce platform with cutting-edge technologies <br>
+ - 🔭 I’m currently working on Extensive real estate platform with cutting-edge technologies <br>
 Feel free to star this repo 🤗
 
 ### 🌐 Socials:
