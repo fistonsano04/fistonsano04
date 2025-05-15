@@ -20,7 +20,7 @@ I have experience with various technologies, tools, and programming languages, i
 
 ### ⏳ Weekly WakaTime Stats
 <!--START_SECTION:waka-->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iamsano&layout=compact)](https://wakatime.com/@Iamsano)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iamsano&layout=compact&range=last_365_days)](https://wakatime.com/@Iamsano)
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
